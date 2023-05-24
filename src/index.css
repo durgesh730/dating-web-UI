@@ -7,6 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  --color_p1: #402c87;
+  --color_p2: #8443e5;
+  --color_p3: #e543c3;
+  --color_p4: #6c54a6;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
